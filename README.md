@@ -7,7 +7,7 @@ Download [paper](https://www.medrxiv.org/content/10.1101/2020.09.04.20188680v5).
 
 ![Figure 1 Our compartmental model](Figures/FlowChartModel.jpg)
 
-**Figure 1.** The SUPR Infection Dynamics with Testing and Contact Tracing (where, *s<sub>t</sub>*: number of susceptible individuals, *u<sub>t</sub>*: number of undetected infected individuals, *p<sub>t</sub>*: number of positive infections detected from testing, *r<sub>t</sub>*: number of recovered individuals, *c<sub>t</sub>* number of contacts traced on date *t*, *T<sub>t</sub>*: total number of tests, *β<sub>t</sub><sup>I</sup>*: internal infectivity, *β<sub>t</sub><sup>E</sup>: external infectivity, and *γ*: recovery rate.)
+**Figure 1.** The SUPR Infection Dynamics with Testing and Contact Tracing (where, *s<sub>t</sub>*: number of susceptible individuals, *u<sub>t</sub>*: number of undetected infected individuals, *p<sub>t</sub>*: number of positive infections detected from testing, *r<sub>t</sub>*: number of recovered individuals, *c<sub>t</sub>* number of contacts traced on date *t*, *T<sub>t</sub>*: total number of tests, *β<sub>t</sub><sup>I</sup>*: internal infectivity, *β<sub>t</sub><sup>E</sup>*: external infectivity, and *γ*: recovery rate.)
 
 
 ![Figure 2](Figures/Fig2.png)
