@@ -2,7 +2,7 @@
 
 Many educational institutions have partially or fully closed all operations to cope with the challenges of the ongoing COVID-19 pandemic. In this paper, we explore strategies that such institutions can adopt to conduct safe reopening and resume operations during the pandemic. The research is motivated by the University of Illinois at Urbana-Champaign’s (UIUC’s) SHIELD program, (https://www.uillinois.edu/shield), which is a set of policies and strategies, including rapid saliva-based COVID-19 screening, for ensuring safety of students, faculty and staff to conduct in-person operations, at least partially. Specifically, we study how rapid bulk testing, contact tracing and preventative measures such as mask wearing, sanitization, and enforcement of social distancing can allow institutions to manage the epidemic spread.
 
-Mukherjee, U.K., Bose, S., Ivanov, A. et al. Evaluation of reopening strategies for educational institutions during COVID-19 through agent based simulation. Sci Rep 11, 6264 (2021). https://www.nature.com/articles/s41598-021-84192-y
+Mukherjee, U. K., Bose, S., Ivanov, A., Souyris, S., Seshadri, S., Sridhar, P., Watkins, R., & Xu, Y. (2021). Evaluation of reopening strategies for educational institutions during COVID-19 through agent based simulation. Scientific Reports, 11(1), 6264. https://www.nature.com/articles/s41598-021-84192-y
 
 Access the [code](/Code).
 
