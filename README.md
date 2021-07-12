@@ -4,6 +4,7 @@ Many educational institutions have partially or fully closed all operations to c
 
 Download the [paper](https://www.medrxiv.org/content/10.1101/2020.09.04.20188680v5).
 
+Access the [code](/Code).
 
 ![Figure 1 Our compartmental model](Figures/FlowChartModel.jpg)
 
